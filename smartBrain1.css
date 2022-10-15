@@ -1,0 +1,22 @@
+.myDiv {
+    border: 5px outset rgb(47, 54, 61);
+    background-color: rgb(51, 57, 59);    
+    text-align: center;
+    padding: none;
+    margin-inline: 700px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: none;
+}
+
+body {
+
+  background-image: url(https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_deep_field_smacs0723-5mb.jpg);
+
+
+}
+
+
+
+
+
